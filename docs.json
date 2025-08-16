@@ -49,7 +49,7 @@
       },
       {
         "tab": "API reference",
-        "openapi": "https://baynext-api.onrender.com/openapi.json",
+        "openapi": "https://baynext-api.onrender.com/openapi.json"
       }
     ],
     "global": {
